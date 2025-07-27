@@ -1,0 +1,58 @@
+export const projectsData = [
+    {
+        id: 1,
+        name: '',
+        description: "",
+        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        role: '',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 2,
+        name: '',
+        description: "",
+        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        role: '',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 3,
+        name: '',
+        description: "",
+        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        role: '',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 4,
+        name: '',
+        description: "",
+        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        role: '',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 5,
+        name: 'Resume Builder',
+        description: "The Resume Builder is a responsive web application designed to streamline the process of creating professional resumes. It allows users to input their personal, educational, and professional information through an intuitive interface and instantly preview the resume in a clean, structured format. With support for multiple modern templates, users can customize the look and feel of their resumes and download them as PDF files.",
+        tools: ['Html', 'Bootstrap', 'CSS','Javascript', 'php'],
+        role: 'Full Stack Developer',
+        code: 'https://github.com/vishalmane01/Resume_builder_php',
+        demo: '',
+    },
+];
+
+
+// {
+//     id: 1,
+//     name: '',
+//     description: "",
+//     tools: [],
+//     role: '',
+//     code: '',
+//     demo: '',
+// },
