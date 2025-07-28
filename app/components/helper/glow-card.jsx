@@ -72,8 +72,7 @@ const GlowCard = ({ children, identifier }) => {
       };
     };
 
-    // Defer DOM manipulation to next frame to be safe
-    requestAnimationFrame(handleReady);
+    window.requestAnimationFrame(handleReady);
   }, [identifier]);
 
   return (
